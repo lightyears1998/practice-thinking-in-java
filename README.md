@@ -1,4 +1,4 @@
-Practice of <<Thinking in Java>>
+Practice of \<\<Thinking in Java>>
 ================================
 
 这里是我的《Java编程思想》的课后习题仓库。
